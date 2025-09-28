@@ -9,7 +9,7 @@ while p <= 0:
 
 
 while r <= 0:
-    r = float(input("Enter the principle value: "))
+    r = float(input("Enter the interset rate: "))
     if r <=0 :
         print("can't be less that or equal to 0")
 
